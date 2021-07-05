@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.col-9 input{
+  width: 400px;
+}
+
+#right{
+  border-left: 1px solid gray;
+}
+#side{
+  padding-top: 100px;
+}
+#side select{
+  width: 150px;
+  margin: 10px 0;
+}
